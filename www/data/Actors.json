@@ -1,0 +1,7 @@
+[
+null,
+{"id":1,"battlerName":"SF_Actor1_2","characterIndex":1,"characterName":"SF_Actor1","classId":1,"equips":[0,0,0,0,0],"faceIndex":1,"faceName":"SF_Actor1","traits":[],"initialLevel":1,"maxLevel":99,"name":"我","nickname":"","note":"","profile":""},
+{"id":2,"battlerName":"Package1_6","characterIndex":4,"characterName":"Package2","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"People3","traits":[],"initialLevel":1,"maxLevel":99,"name":"村长","nickname":"","note":"","profile":""},
+{"id":3,"battlerName":"","characterIndex":0,"characterName":"","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"","traits":[],"initialLevel":1,"maxLevel":99,"name":"","nickname":"","note":"","profile":""},
+{"id":4,"battlerName":"","characterIndex":0,"characterName":"","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"","traits":[],"initialLevel":1,"maxLevel":99,"name":"","nickname":"","note":"","profile":""}
+]
