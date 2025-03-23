@@ -1,5 +1,9 @@
+
 @font-face {
     font-family: GameFont;
-    src: url("fonts/msyh.ttf");
+    src: url("msyh.ttf"); /* 确保路径是相对路径 */
 }
 
+body {
+    font-family: GameFont;
+}
